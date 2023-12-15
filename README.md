@@ -7,7 +7,7 @@ Durante a formação estudamos temas relacionados a Testes e Qualidade de Softwa
     🔹 Estratégia e Técnicas de Testes;<br>
     🔹 Processo de Teste; <br>
     🔹 Processo de Teste Ágil; <br>
-    🔹 Automação de Testes, utilizando [Wavingtest](https://www.wavingtest.com/) ferramenta desenvolvida pelo instituto.
+    🔹 Automação de Testes, utilizando [Wavingtest](https://www.wavingtest.com/) ferramenta desenvolvida pelo Instituto Atlântico.
 
 ## Descrição
 O [Product Store](https://demoblaze.com/) é um sistema de comércio digital destinado à venda de produtos eletrônicos no varejo, como laptops, monitores e smartphones, e é utilizado por consumidores de todas as idades e níveis de conhecimento tecnológico que buscam produtos eletrônicos.
