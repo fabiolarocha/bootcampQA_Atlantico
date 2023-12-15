@@ -1,4 +1,4 @@
-# Bootcamp em Quality Assurance - Instituto Atlântico Avanti
+## Bootcamp em Quality Assurance - Instituto Atlântico Avanti
 Atividades desenvolvidos durante o Bootcamp de Quality Assurance - Garantia da Qualidade de Software, promovido pelo Instituto Atlântico Avanti e apoiado pelo Ministério da Ciência, Tecnologia e Inovação - Governo Federal. <br>
 
 Durante a formação estudamos temas relacionados a Testes e Qualidade de Software. Entre eles, destacam-se:<br>
