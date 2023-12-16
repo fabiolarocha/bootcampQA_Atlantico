@@ -41,6 +41,9 @@ Durante o bootcamp, foram realizadas as seguintes atividades:
 🔹 Relatório de Bug e Testes - Após a realização dos testes manuais, concluímos que o site apresenta um número significativo de problemas. Ao todo, registramos uma taxa de falha de 15,2%, o que é considerado elevado, especialmente pelo fato de a maioria das falhas serem classificadas como críticas.<br>
 🔹 Automação de Testes - Automatizamos o cenário mais crítico do nosso sistema, e nele observamos uma taxa de falha nos casos de teste de 50%, o que é considerado altíssimo.<br>
 
+![Resultados](https://github.com/fabiolarocha/bootcampQA_Atlantico/assets/69681535/13fc7f77-ac84-462e-bcb8-26a0d340c1b3)
+
+
 #### Lições aprendidas:
 🔹 Planejamento estratégico - Durante os testes, aprendemos a importância de estabelecer objetivos claros, realizar análises detalhadas e criar uma estratégia bem definida. Essa abordagem nos permitiu direcionar nossos esforços de teste eficientemente e obter resultados mais precisos;<br>
 🔹 Experiência no ambiente de trabalho real - Isso nos proporcionou uma compreensão mais profunda dos desafios e demandas enfrentadas no dia a dia em um ambiente real. Essa vivência nos ajudou a adaptar nossas estratégias de teste conforme a realidade do projeto;<br>
