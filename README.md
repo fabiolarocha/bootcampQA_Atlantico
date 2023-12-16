@@ -50,4 +50,4 @@ Durante o bootcamp, foram realizadas as seguintes atividades:
 
 
 
-Todas as atividades foram realizadas considerando o sistema e-commerce Product Store, disponível em [DemoBlaze](https://demoblaze.com/).
+#### Todas as atividades foram realizadas considerando o sistema e-commerce [Product Store](https://demoblaze.com/).
