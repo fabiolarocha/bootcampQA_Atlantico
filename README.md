@@ -15,11 +15,10 @@ O [Product Store](https://demoblaze.com/) é um sistema de comércio digital des
 https://github.com/fabiolarocha/bootcampQA_Atlantico/assets/69681535/fdb355e5-15b8-490d-89ea-206b31222ca0
 
 ## Funcionalidades
-O Product Store apresenta 8 principais funcionalidades que viabilizam a venda de seus produtos de forma prática a fim de oferecer uma experiência satisfatória aos seus clientes.<br><br>
+O Product Store apresenta 8 principais funcionalidades que viabilizam a venda de seus produtos de forma prática a fim de oferecer uma experiência satisfatória aos seus clientes.<br>
+A funcionalidade escolhida para automatização foi o Checkout, considerada a mais crítica do sistema, com uma taxa altíssima de casos de teste falhos, atingindo 50% de falhas.
+A ferramenta utilizada foi o [WavingTest](https://www.wavingtest.com/).<br><br>
 ![Funcionalidade 1](https://github.com/fabiolarocha/bootcampQA_Atlantico/assets/69681535/2a7cb235-21d7-46f0-afd5-9455d56f76a9) <br><br>
-
-#### A funcionalidade escolhida para automatização foi o Checkout, considerada a mais crítica do sistema, com uma taxa altíssima de casos de teste falhos, atingindo 50% de falhas. A ferramenta utilizada foi o [WavingTest](https://www.wavingtest.com/), 
-
 
 ## Atividades Desenvolvidas
 Durante o bootcamp, foram realizadas as seguintes atividades:
