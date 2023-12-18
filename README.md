@@ -35,6 +35,10 @@ Durante o bootcamp, foram realizadas as seguintes atividades:
 🔹 Relatório de Testes Automatizados;<br>
 🔹 Apresentação Final.
 
+
+## Algumas Ferramentas utilizadas: <br>
+  [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)]()      [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()     [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)]()     [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white])]()     [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()    [![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)]()     [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()<br>
+
 ## Artefatos entregues
 🔹 Plano de Teste - Abrange os requisitos do sistema, a partir dos quais determinamos os tipos e níveis de teste, as técnicas utilizadas e o ambiente de teste. Além disso, detalhamos as métricas a serem utilizadas, as ferramentas a serem empregadas e o escopo da automação de teste; <br>
 🔹 Especificação de Teste - Analisamos quais seriam os pontos mais críticos do sistema para serem testados, resultando na identificação de 7 cenários de teste e 33 casos de teste; <br>
