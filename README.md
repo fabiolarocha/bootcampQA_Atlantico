@@ -1,4 +1,4 @@
-## Bootcamp em Quality Assurance [EM CONSTRUÇÃO]
+## Bootcamp em Quality Assurance 
 Atividades desenvolvidos durante o Bootcamp de Quality Assurance - Garantia da Qualidade de Software, promovido pelo [Instituto Atlântico Avanti](https://www.linkedin.com/company/instituto-atlantico/) e apoiado pelo [Ministério da Ciência, Tecnologia e Inovação](https://www.linkedin.com/company/mcti/). <br>
 
 Durante a formação foram abordados temas relacionados a Testes e Qualidade de Software. Entre eles, destacam-se:<br>
@@ -7,7 +7,7 @@ Durante a formação foram abordados temas relacionados a Testes e Qualidade de 
     ◾  Estratégia e Técnicas de Testes;<br>
     ◾  Processo de Teste; <br>
     ◾  Processo de Teste Ágil; <br>
-    ◾  Automação de Testes, utilizando [Wavingtest](https://www.wavingtest.com/) ferramenta desenvolvida pelo Instituto Atlântico. Um software de automação de testes que utiliza inteligência artificial com o objetivo de entregar maior produtividade as equipes de desenvolvimento. <br>
+    ◾  Automação de Testes, utilizando [Wavingtest](https://www.wavingtest.com/) ferramenta desenvolvida pelo Instituto Atlântico. Software de automação de testes que utiliza inteligência artificial com o objetivo de entregar maior produtividade as equipes de desenvolvimento. <br>
 
 ## Descrição 
 O [Product Store](https://demoblaze.com/) é um sistema de comércio digital destinado à venda de produtos eletrônicos no varejo, como laptops, monitores e smartphones, e é utilizado por consumidores de todas as idades e níveis de conhecimento tecnológico que buscam produtos eletrônicos.
@@ -54,7 +54,6 @@ Durante o bootcamp, foram realizadas as seguintes atividades:
 ◾  Importância da documentação - Durante o desenvolvimento aprendemos a escrever e a valorizar a elaboração de documentações e relatórios de teste. Essa prática nos permitiu registrar e comunicar claramente os resultados, facilitando a identificação e correção de problemas;<br>
 ◾  Identificação de falhas em segurança e usabilidade - Essas descobertas foram essenciais para pontuarmos as melhorias necessárias, permitindo que medidas corretivas sejam tomadas para garantir a qualidade do produto, a proteção dos dados e proporcionar uma experiência mais satisfatória dos usuários;<br>
 ◾  Trabalho em equipe - A colaboração e sinergia entre os membros da equipe foram essenciais para alcançar resultados de qualidade.<br>
-
 
 
 #### Todas as atividades foram realizadas considerando o sistema e-commerce [Product Store](https://demoblaze.com/).
